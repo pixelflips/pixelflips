@@ -2,4 +2,4 @@
 
 > Front-end focused UX developer and UI designer passionate in the areas of user experience, web development, design, and website performance. I enjoy creating unique and forward thinking products using well-structured markup and styling.
 
-I'm currently a UX Developer [@Kajabi](https://kajabi.com/) working on the [Sage Design System](https://sage-design-system.kajabi.com/) and as part of an amazing cross functional team.
+I'm currently a Senior UX Developer [@Kajabi](https://kajabi.com/) working on the [Sage Design System](https://sage-design-system.kajabi.com/) and as part of an amazing cross functional team.
